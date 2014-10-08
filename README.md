@@ -3,6 +3,11 @@ MetropAccess-Digiroad - ArcGIS 10.0
 
 Olemme kehittäneet menetelmän, jolla Digiroad-aineiston nopeusrajoituksiin perustuvia ajoaikoja voi muokata yksinkertaisesti vastaamaan paremmin pääkaupunkiseudun todellisia henkilöautojen ajoaikoja eri tieosuuksilla. Työ pohjautuu pääkaupunkiseudulla tehtyihin kelluvan auton mittauksiin (lähteenä Helsingin kaupunkisuunnitteluvirasto ja HSL), joista mahdollisimman todenmukaiset ajonopeudet eri vuorokaudenaikoina on johdettu luomalla tieluokkakohtaisia risteyshidastuvuuksia.  Lisäksi matka-aikalaskennat huomioivat pysäköintiin kuluvan ajan. 
 
+Tarkemman menetelmäkuvauksen voi lukea Timo Jaakkolan Pro -gradu työstä:
+Jaakkola, T. (2013). Paikkatietopohjainen menetelmä autoilun ajoaikojen ja kokonaismatka-aikojen mallintamiseen – esimerkkinä pääkaupunkiseutu. Pro gradu -tutkielma. Helsingin yliopisto. Geotieteiden ja maantieteen laitos.
+
+Työn tulokset ovat vapaasti käytettävissä itse hankitun Digiroad-aineiston kanssa tai valmiiksi lasketun MetropAccess-Digiroad aineiston kanssa, joka on vapaasti ladattavissa hankkeemme data osiosta.
+
 Työkalut sisältävät:
 ================================
 
